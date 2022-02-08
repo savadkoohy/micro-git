@@ -1,0 +1,10 @@
+bin
+obj
+pages
+properties
+appsettings.json
+appsettings.Development.json
+appsettings.json
+micro-git.csproj
+Program.cs
+wwwroot
